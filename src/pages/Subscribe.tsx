@@ -57,7 +57,7 @@ export function Subscribe() {
           </form>
         </div>
       </div>
-      <img src="/src/assets/img/mokup.png" alt="" />
+      <img src="../../src/assets/img/mokup.png" alt="" />
 
     </div>
   );
